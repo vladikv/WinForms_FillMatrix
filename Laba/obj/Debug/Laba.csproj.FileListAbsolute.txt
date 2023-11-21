@@ -1,0 +1,10 @@
+B:\01_pro\STEP\BackEnd\WinForms\Laba\Laba\bin\Debug\Laba.exe.config
+B:\01_pro\STEP\BackEnd\WinForms\Laba\Laba\bin\Debug\Laba.exe
+B:\01_pro\STEP\BackEnd\WinForms\Laba\Laba\bin\Debug\Laba.pdb
+B:\01_pro\STEP\BackEnd\WinForms\Laba\Laba\obj\Debug\Laba.csproj.AssemblyReference.cache
+B:\01_pro\STEP\BackEnd\WinForms\Laba\Laba\obj\Debug\Laba.Form1.resources
+B:\01_pro\STEP\BackEnd\WinForms\Laba\Laba\obj\Debug\Laba.Properties.Resources.resources
+B:\01_pro\STEP\BackEnd\WinForms\Laba\Laba\obj\Debug\Laba.csproj.GenerateResource.cache
+B:\01_pro\STEP\BackEnd\WinForms\Laba\Laba\obj\Debug\Laba.csproj.CoreCompileInputs.cache
+B:\01_pro\STEP\BackEnd\WinForms\Laba\Laba\obj\Debug\Laba.exe
+B:\01_pro\STEP\BackEnd\WinForms\Laba\Laba\obj\Debug\Laba.pdb
